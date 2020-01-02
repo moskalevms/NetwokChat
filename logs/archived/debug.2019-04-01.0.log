@@ -1,0 +1,12 @@
+2019-04-01 20:25:39 - Server started!
+2019-04-01 20:25:57 - New client connected!
+2019-04-01 20:25:58 - Authorization for user Ivan successful
+2019-04-01 20:26:57 - New client connected!
+2019-04-01 20:26:57 - Authorization for user Julia successful
+2019-04-01 20:27:10 - Message from user Ivan: /w Online привет
+2019-04-01 20:27:24 - Message from user Ivan: /w Julia привет
+2019-04-01 20:27:43 - Message from user Julia: /w Ivan как дела
+2019-04-01 20:28:06 - Message from user Ivan: /w Julia хорошо а у тебя
+2019-04-01 20:28:14 - Message from user Julia: /w Ivan пока
+2019-04-01 20:28:21 - Client User{id=2, login='Julia', password='345'} disconnected
+2019-04-01 20:29:33 - Client User{id=1, login='Ivan', password='123'} disconnected

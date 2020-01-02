@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+<BorderPane fx:id="cellLayout" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <bottom>
+      <Label fx:id="lbMessage" text="222" BorderPane.alignment="BOTTOM_LEFT" />
+   </bottom>
+   <top>
+      <HBox prefHeight="23.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="lbTimestamp" style="-fx-text-fill: green;" text="Timestamp" />
+            <Label fx:id="lbUserName" style="-fx-font-weight: bold;" text="Login" />
+         </children>
+      </HBox>
+   </top>
+</BorderPane>

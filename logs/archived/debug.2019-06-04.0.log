@@ -1,0 +1,57 @@
+2019-06-03 21:15:19 - Server started!
+2019-06-03 21:16:21 - New client connected!
+2019-06-03 21:16:21 - Authorization for user ivan failed
+2019-06-03 21:16:33 - New client connected!
+2019-06-03 21:16:33 - Authorization for user Ivan successful
+2019-06-03 21:16:51 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 21:35:01 - Server started!
+2019-06-03 21:35:25 - New client connected!
+2019-06-03 21:35:25 - Authorization for user Ivan successful
+2019-06-03 21:35:47 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 21:55:09 - Server started!
+2019-06-03 21:55:20 - Failed to read data from socket.
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at Server.ChatServer.start(ChatServer.java:47)
+	at Server.ChatServer.main(ChatServer.java:41)
+2019-06-03 21:55:29 - Server started!
+2019-06-03 21:55:42 - New client connected!
+2019-06-03 21:55:42 - Authorization for user Ivan successful
+2019-06-03 21:56:12 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 21:57:10 - Server started!
+2019-06-03 21:57:17 - New client connected!
+2019-06-03 21:57:18 - Authorization for user Ivan successful
+2019-06-03 21:57:22 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 22:03:53 - Failed to read data from socket.
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at Server.ChatServer.start(ChatServer.java:47)
+	at Server.ChatServer.main(ChatServer.java:41)
+2019-06-03 22:04:00 - Server started!
+2019-06-03 22:04:17 - New client connected!
+2019-06-03 22:04:17 - Authorization for user Ivan successful
+2019-06-03 22:04:33 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 22:10:44 - Server started!
+2019-06-03 22:11:00 - New client connected!
+2019-06-03 22:11:00 - Authorization for user Ivan successful
+2019-06-03 22:11:58 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 22:12:38 - Server started!
+2019-06-03 22:12:53 - New client connected!
+2019-06-03 22:12:54 - Authorization for user Ivan successful
+2019-06-03 22:13:05 - Client User{id=1, login='Ivan', password='123'} disconnected
+2019-06-03 22:14:27 - Server started!
+2019-06-03 22:14:37 - New client connected!
+2019-06-03 22:14:37 - Authorization for user Ivan successful
+2019-06-03 22:14:46 - Client User{id=1, login='Ivan', password='123'} disconnected

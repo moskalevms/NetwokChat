@@ -1,0 +1,36 @@
+2020-01-02 21:06:48 - Server started!
+2020-01-02 21:07:13 - New client connected!
+2020-01-02 21:07:13 - Authorization for user ivan failed
+2020-01-02 21:07:21 - New client connected!
+2020-01-02 21:07:21 - Authorization for user ivan failed
+2020-01-02 21:07:53 - New client connected!
+2020-01-02 21:07:53 - Authorization for user Ivan successful
+2020-01-02 21:08:28 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:09:35 - Server started!
+2020-01-02 21:09:50 - New client connected!
+2020-01-02 21:09:50 - Authorization for user Ivan successful
+2020-01-02 21:10:18 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:10:33 - Server started!
+2020-01-02 21:10:50 - New client connected!
+2020-01-02 21:10:50 - Authorization for user Ivan successful
+2020-01-02 21:10:55 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:11:19 - New client connected!
+2020-01-02 21:11:19 - Authorization for user Ivan successful
+2020-01-02 21:11:22 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:11:50 - New client connected!
+2020-01-02 21:11:50 - Authorization for user Ivan successful
+2020-01-02 21:12:02 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:12:35 - New client connected!
+2020-01-02 21:12:35 - Authorization for user Ivan successful
+2020-01-02 21:12:54 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:35:07 - Server started!
+2020-01-02 21:35:23 - New client connected!
+2020-01-02 21:35:23 - Authorization for user Ivan successful
+2020-01-02 21:36:18 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:38:41 - New client connected!
+2020-01-02 21:38:41 - Authorization for user Ivan successful
+2020-01-02 21:39:12 - Client User{id=1, login='Ivan', password='123'} disconnected
+2020-01-02 21:45:45 - Server started!
+2020-01-02 21:45:59 - New client connected!
+2020-01-02 21:45:59 - Authorization for user Ivan successful
+2020-01-02 21:46:03 - Client User{id=1, login='Ivan', password='123'} disconnected
